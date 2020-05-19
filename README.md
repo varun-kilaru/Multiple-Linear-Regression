@@ -11,8 +11,8 @@
 3  12215000  7500         4          2        2  ...              no             yes       3      yes        furnished
 4  11410000  7420         4          1        2  ...              no             yes       2       no        furnished
 </pre>
-<img src="SLR/Figure_1.png">
-<img src="SLR/Figure_2.png">
+<img src="MLR/Figure_1.png">
+<img src="MLR/Figure_2.png">
 <h3>Summary of the model :</h3> 
 <pre>
  OLS Regression Results
